@@ -11,8 +11,8 @@ Welcome to the E-Commerce Website project. This project is a simple HTML/CSS/Jav
 - Newsletter signup section for users to stay updated with the latest news and offers.
 - Footer with contact information, social media links, and other relevant details.
 
-- ## Library for different fonts on website
+- ## Library 
 
-- Font Awesome library used
+- Font Awesome library used for different font used in website.
 
   ## The DOM is used to interact with specific elements on the web page.
