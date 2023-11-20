@@ -2,13 +2,6 @@
 
 Welcome to the E-Commerce Website project. This project is a simple HTML/CSS/Java-script(Basic) E-commerce template with a focus on showcasing products and providing a pleasant user experience.
 
-## Table of Contents
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Responsive design for a seamless user experience on various devices.
@@ -22,4 +15,4 @@ Welcome to the E-Commerce Website project. This project is a simple HTML/CSS/Jav
 
 - Font Awesome library used
 
-  ## the DOM is used to interact with specific elements on the web page.
+  ## The DOM is used to interact with specific elements on the web page.
