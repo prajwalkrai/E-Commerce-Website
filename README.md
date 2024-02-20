@@ -1,6 +1,6 @@
-# E-Commerce Website Project
+# Shopping Website Project
 
-Welcome to the E-Commerce Website project. This project is a simple HTML/CSS/Java-script(Basic) E-commerce template with a focus on showcasing products and providing a pleasant user experience.
+Welcome to the Shopping Website project. This project is a simple HTML/CSS/Java-script(Basic) Shopping template with a focus on showcasing products and providing a pleasant user experience.
 
 ## Features
 
